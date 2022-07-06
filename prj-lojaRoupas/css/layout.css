@@ -1,0 +1,118 @@
+
+.navbar-texto{
+    color: #F4E3FB;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 1px;
+}
+
+#corpo{
+    background-color: #F4E3FB;
+    border: #35213E solid 4px;
+    width: 1000px;
+    height: 1800px;
+    position: absolute;
+    margin-left: 300px;
+}
+
+#cabecalho{
+    width: 700px;
+    height: 80px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 150px; 
+}
+
+#form{
+    width: 600px;
+    height: 50px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+select{
+    border: #280339 ridge 4px;
+    border-radius: 3px;
+    width: 300px;
+    height: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 5px;
+}
+
+button{
+    font-size: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: #280339 outset 2px;
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+}
+
+option{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: #280339;
+}
+
+.categoria-cards{
+    width: 900px;
+    height: 300px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+
+.cards{
+    width: 200px;
+    height: 270px;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 30px;
+    float: left;
+}
+
+.foto{
+    width: 180px;
+    height: 175px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.info{
+    background-color: #280339;
+    border-radius: 0px 0px 5px 5px;
+    border: #280339 groove 2px;
+    width: 180px;
+    height: 65px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h5{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+.foto1{
+    border: #280339 groove 3px;
+    border-radius: 5px 5px 0px 0px;
+    width: 180px;
+    height: 175px;
+}
