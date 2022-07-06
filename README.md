@@ -5,5 +5,5 @@
   <p> Sistemas desenvolvidos com PHP, onde foi visto novas funções com essa linguagem, como a criação de <b>Sessões</b>, <b>Cookies</b>, <b>manipulação de datas</b> e <b>PDO</b>. </p>
   <p> Após aprendermos essas funções, foi passado para minha sala um projeto que envolveria <b>Banco de Dados</b> e a junção de <b>PHP</b> com <b>HTML</b> </p>
   
-  - Você pode ver esse porjeto <a href="https://github.com/DuS0usa/BarberDuhel.git">clicando aqui</a>
+  - Você pode ver esse sistema <a href="https://github.com/DuS0usa/BarberDuhel.git">clicando aqui.</a>
 </div>
